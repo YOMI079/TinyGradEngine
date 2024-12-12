@@ -25,8 +25,8 @@ A minimalistic gradient cmputaotion library implemented from scratch. This proje
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TinyGradEngine.git
-   cd MicroGrad
+   git clone https://github.com/your-YOMI079/TinyGradEngine.git
+   cd TinyGradEngine
    ```
 
 2. Install required dependencies:
